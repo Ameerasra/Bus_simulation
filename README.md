@@ -7,24 +7,15 @@ It simulates passenger arrivals, priorities, bus boarding, and departures to ana
 
 ⚙️ Requirements
 Python Version
-
 Python 3.6 or higher
 
 Required Libraries
-
 simpy – For discrete-event simulation
-
 matplotlib – For generating visualizations
 
-numpy – For numerical calculations
 
 Usage Instructions
-
-Run the simulation script in a terminal or IDE:
-
-python bus_simulation.py
-
-
+Run the simulation script in a terminal or IDE
 When executed, the script will prompt for simulation parameters with default values.
 
 === Bus System Simulation ===
